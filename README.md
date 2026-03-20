@@ -4,7 +4,7 @@
 
 # 🚨 EmergencyX
 
-### AI-Powered Emergency Triage & Cardiac Risk Prediction System
+### AI-Powered Emergency Triage & heart attack Prediction System
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -269,7 +269,7 @@ EmergencyX/
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here after capturing them)*
+
 
 | Dashboard | Triage Module | Cardiac Module |
 |:---------:|:-------------:|:--------------:|
@@ -277,7 +277,7 @@ EmergencyX/
 
 ---
 
-## 📄 .gitignore (Recommended)
+## 📄 .gitignore 
 
 ```gitignore
 # Visual Studio
@@ -320,11 +320,11 @@ Contributions, issues and feature requests are welcome!
 
 ## 👤 Author
 
-**Your Name**
+Ahmad Albasha
 
-[![GitHub](https://img.shields.io/badge/GitHub-@YourUsername-181717?style=flat-square&logo=github)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YourProfile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@YourUsername-181717?style=flat-square&logo=github)](https://github.com/ahmad-albasha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmad-a-9a0373123)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ahmad-albasha09@hotmail.com)
 
 ---
 
